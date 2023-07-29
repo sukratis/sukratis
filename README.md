@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sukrati Sharma</h1>
 <h3 align="center">Data Science | Machine learning enthusiast</h3>
